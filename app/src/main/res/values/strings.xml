@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="swap_mode">Toggle Mode</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="shimmer_message_mode">REVEAL MODE</string>
+    <string name="shimmer_message_flags">Good luck!</string>
+    <string name="new_game">New game</string>
+</resources>
