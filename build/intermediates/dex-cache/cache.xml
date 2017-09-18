@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\StudioProjects\MinesweeperAppAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Adam\StudioProjects\MinesweeperAppAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_109baad38866623c015125dcfbcd705e7c54470c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\8ffda4b0544b8a2b3e6f1e1472bc3ebbc5deea1a\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Adam\StudioProjects\MinesweeperAppAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_aaec7e0b3b73c549d5b7d33223b47d44bb1aa1b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\StudioProjects\MinesweeperAppAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1da9c7ec98babc6c7c56dc89b50e5caba20c3535">
+        <dex dex="C:\Users\Adam\StudioProjects\MinesweeperAppAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a8a36088a7b3b0d1c34716bdb856e047749dc6d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\7b962a9b59406ddc8f91e2b9ee1e5a35f177f862\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Adam\StudioProjects\MinesweeperAppAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa39458b11e290b838201745a59f679169c5a0a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\fbd19cd5bae696b3cd3c32fc117dfcf813570390\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37e257a25703e692be3f9aa9c4bf7de620e9271a">
+        <dex dex="C:\Users\Adam\StudioProjects\MinesweeperAppAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddd6f2cc0857c37dfd2495e440d55f7946990c9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Adam\StudioProjects\MinesweeperAppAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_2b6d21911c996ba5831671708ad3839cb511fe50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\8ffda4b0544b8a2b3e6f1e1472bc3ebbc5deea1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Adam\StudioProjects\MinesweeperAppAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e69a9ac7cb68e63972372ed61fc94c4f548420ff\classes.dex" />
+    </item>
+
+</items>

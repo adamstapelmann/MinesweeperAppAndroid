@@ -1,0 +1,16 @@
+#Mon Sep 18 16:40:24 PDT 2017
+renamed.4=classes4.dex
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes5.dex
+base.4=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_aaec7e0b3b73c549d5b7d33223b47d44bb1aa1b1
+renamed.0=classes.dex
+base.3=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e69a9ac7cb68e63972372ed61fc94c4f548420ff
+base.2=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fa39458b11e290b838201745a59f679169c5a0a8
+base.1=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_2b6d21911c996ba5831671708ad3839cb511fe50
+base.0=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ddd6f2cc0857c37dfd2495e440d55f7946990c9a
+file.4=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_aaec7e0b3b73c549d5b7d33223b47d44bb1aa1b1\\classes.dex
+file.3=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e69a9ac7cb68e63972372ed61fc94c4f548420ff\\classes.dex
+file.2=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fa39458b11e290b838201745a59f679169c5a0a8\\classes.dex
+file.1=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_2b6d21911c996ba5831671708ad3839cb511fe50\\classes.dex
+file.0=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ddd6f2cc0857c37dfd2495e440d55f7946990c9a\\classes.dex

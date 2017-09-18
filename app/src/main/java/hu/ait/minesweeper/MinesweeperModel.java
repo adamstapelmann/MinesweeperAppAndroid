@@ -6,8 +6,8 @@ public class MinesweeperModel {
 
     private static MinesweeperModel instance = null;
 
-    private final int GRID_SIZE = 8;
-    private final int NUM_MINES = 3;
+    private final int GRID_SIZE = 9;
+    private final int NUM_MINES = 10;
 
     private boolean flagMode;
     private boolean gameLost;

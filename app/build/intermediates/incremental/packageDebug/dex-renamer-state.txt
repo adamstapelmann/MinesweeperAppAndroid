@@ -1,0 +1,7 @@
+#Mon Sep 18 16:40:25 PDT 2017
+base.0=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_109baad38866623c015125dcfbcd705e7c54470c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a8a36088a7b3b0d1c34716bdb856e047749dc6d8\\classes.dex
+base.1=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a8a36088a7b3b0d1c34716bdb856e047749dc6d8
+file.0=C\:\\Users\\Adam\\StudioProjects\\MinesweeperAppAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_109baad38866623c015125dcfbcd705e7c54470c\\classes.dex
